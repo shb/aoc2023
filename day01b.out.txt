@@ -1,0 +1,3312 @@
+29lzrxseven
+ + 27 = 27
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9nnqljsixkzphvtmtr
+ + 9 = 36
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five73kskpfgbkcltwoccvf
+ + 5 = 41
+fiveq7
+ + 57 = 98
+npfdbnjlthree6cmdbsrsqc9five
+ + 35 = 133
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fourthree5threenineq
+ + 4 = 137
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vdxpfourone1393mtvtlzmj
+ + 4 = 141
+onetwo6
+ + 16 = 157
+62one
+ + 61 = 218
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vttq7sixninekgxtpspjgkninesnpktchz
+ + 7 = 225
+2954two
+ + 22 = 247
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+395fiveqqjqrkxxrbseven6ncnnpzffj
+ + 3 = 250
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one92seven3pfbhlqzt
+ + 1 = 251
+5sixtwo75four
+ + 54 = 305
+eightcvcprdttmrbtttznine9
+ + 89 = 394
+two4eight
+ + 28 = 422
+ndndrfmoneone3
+ + 13 = 435
+85one7szmffjstpbdssixpfqbbcljn6
+ + 86 = 521
+16nine9eight
+ + 18 = 539
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nrshscpxfivepqxccgpzfeight3zcvgvkvlcdmrmqmrqrj
+ + 5 = 544
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eight3c
+ + 8 = 552
+sixfive3nine57sevenvqbtsh3
+ + 63 = 615
+38pbqgtwofmhjnjbkeight
+ + 38 = 653
+1vvtcclvnineeight
+ + 18 = 671
+fjeightwo9xtxrmfive5three
+ + 83 = 754
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threeqndg6prxnnrndpmktbsccpfktzfqvrdlnvvq
+ + 3 = 757
+1fivefive3pvthree
+ + 13 = 770
+eighttwo257djtdp5two
+ + 82 = 852
+lgqhbcsfmlg3onepfsvsxbvnnqeight
+ + 38 = 890
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threesix1dgbmcfmcrl1eightnrvgbmrvb
+ + 3 = 893
+qgrgqjlszpcnpq82
+ + 82 = 975
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3fourlbgkgvgpqml
+ + 3 = 978
+bdrdrt38
+ + 38 = 1016
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three3six7two4fivecvxkpnt
+ + 3 = 1019
+rdtvngcd4twotwoone4sevenbdxjfive
+ + 45 = 1064
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9foureightonemd
+ + 9 = 1073
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ninevbpvvhlzncthree5f
+ + 9 = 1082
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nineeightjknsdxtx1fivefive3ccscvtp
+ + 9 = 1091
+66one4pzctwo
+ + 62 = 1153
+dcqgxpczqlsrh61txjmpscxqbhshtz16
+ + 66 = 1219
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1fourkvjqdd
+ + 1 = 1220
+75eight88
+ + 78 = 1298
+11nine
+ + 19 = 1317
+three9two5two135
+ + 35 = 1352
+cq23jgpmpgqqj52
+ + 22 = 1374
+xbdqfpdnfour7
+ + 47 = 1421
+3ninejnjfjmfsjntxeight
+ + 38 = 1459
+one3ninejvhnxphl82seven9nine
+ + 19 = 1478
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixhlhxseven6gnppph
+ + 6 = 1484
+78qknxhztlvtgbrtkcrxmfldjbbrdgxeight
+ + 78 = 1562
+nine8n9385oneone
+ + 91 = 1653
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+94tvmmthree7jgfourrkhxdszrgc
+ + 9 = 1662
+ftwonevbhlhlqhsix5dzfqgsone
+ + 21 = 1683
+vjppsvjrh8nrzlvhxnrxdninedrqmkld44
+ + 84 = 1767
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9sevenfivebxhbvqhblcqpznkonepmsbvfmtjzbn
+ + 9 = 1776
+47nine46six7
+ + 47 = 1823
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9qvmrcjd8lpskqjgsdtxz
+ + 9 = 1832
+6zsninesevenxzddcfninefivetwo
+ + 62 = 1894
+97jsrrspbhl4sixs4
+ + 94 = 1988
+1nine9eightfive12five
+ + 15 = 2003
+6gjx3tqdjstonenndkdsvrtthree
+ + 63 = 2066
+tvdd7htfive225four1
+ + 71 = 2137
+six7733eight88
+ + 68 = 2205
+vsseven6
+ + 76 = 2281
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eightftwoone5twombmjfbnkk
+ + 8 = 2289
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2lbpgtwokrphdqzeightctbc9frdtpgrzf
+ + 2 = 2291
+39one8fourfive57
+ + 37 = 2328
+one6xzxmmjpone7ngdlvvhljmhztlbsgxthree
+ + 13 = 2341
+gcjcdhmp74nine
+ + 79 = 2420
+39vrbnz3s3sevenone
+ + 31 = 2451
+gvzqtjslsmbzqzfgc2
+ + 22 = 2473
+4tppjrkprbkqkbtgrqfivecpztkprhhheight
+ + 48 = 2521
+599
+ + 59 = 2580
+pctwone5one
+ + 21 = 2601
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+trrzzszlsq7onenine47lvprfqdpbkqgvvgrqg
+ + 7 = 2608
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2eightkrqftb
+ + 2 = 2610
+vgrrthreeone9twosix
+ + 36 = 2646
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2bb
+ + 2 = 2648
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onemlpmcvhvzqssxzptd63five48mjnfsmq
+ + 1 = 2649
+8nmeightsixhmdjphreightsixseven
+ + 87 = 2736
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+f6seven4pxmglflmqckcsskfkqrmzhbrnvlqgr
+ + 6 = 2742
+3jmxzhttjc5four32
+ + 32 = 2774
+cqdfninekrldlfzdnhvcnl8
+ + 98 = 2872
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+572qntvlqjsfzrsnpsgsgdfpzmdcdlhsp
+ + 5 = 2877
+6bngnt52
+ + 62 = 2939
+ceightwo7hnqnvfx8nine3eight6
+ + 86 = 3025
+three93fvkgjsr73
+ + 33 = 3058
+seven7dgdpxqncgv1fpdxvtrmg8
+ + 78 = 3136
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+53fiveseveneightninekk
+ + 5 = 3141
+flzmhmbdcb5sevenjcnshhcz1
+ + 51 = 3192
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ntwonefoursixkpmjlzfpjdkdjfgvkfj2jpxt
+ + 2 = 3194
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kzbnbqfcknhnine5lqfgcnl
+ + 9 = 3203
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+zsqsdrxxtnlcmx1pjtkzkbqpvzxtvvbrhf
+ + 1 = 3204
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+stbqnrhdqnjcvjgthtmht8xndfgprq3eightwol
+ + 8 = 3212
+three7eightsix8seven7
+ + 37 = 3249
+knttsixseven73ninebsjkdxxlp5
+ + 65 = 3314
+sevensxkltql27
+ + 77 = 3391
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onelxsixbmznqnfqtmdscjthree5dltxeightwox
+ + 1 = 3392
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6onegqvfdtpbsixonesixthreeqfdvpncjfsgv
+ + 6 = 3398
+m2slphnnccvbsqfivegtwo81
+ + 21 = 3419
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixseven5bqlfourfmtpvzjknrlppnbffn
+ + 6 = 3425
+59ghxvhtdsgeightoneoneseven
+ + 57 = 3482
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4jzeightoneeightwobvh
+ + 4 = 3486
+2two1bnprdmxhgkvfour
+ + 24 = 3510
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+s2onepkqseven9ltmqtjj7pdhtrrnqsd
+ + 2 = 3512
+dpkfdlhcrjfivedntgkqclhzzntwodtsmfourseven1
+ + 51 = 3563
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fbnbj5two3twoneg
+ + 5 = 3568
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twofour3six9one26nvd
+ + 2 = 3570
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twonine1threeonetwosevenvgsdxxhpl
+ + 2 = 3572
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onefourhx6deightfiveb
+ + 1 = 3573
+two718
+ + 28 = 3601
+sevenhhrslnjn6onemhg7two
+ + 72 = 3673
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+62cfgvscmxxfgthhjgsb
+ + 6 = 3679
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8ptwooneone2hfvcfgb
+ + 8 = 3687
+5two5
+ + 55 = 3742
+eightseven86sjsqsmbone
+ + 81 = 3823
+lgtxmqhdfp9
+ + 99 = 3922
+zdmskllfour27four
+ + 44 = 3966
+5fourfive2tdnfctxvzmfrnfive2
+ + 52 = 4018
+five34fourncpzvdnmhrrg7
+ + 57 = 4075
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one48eightjxjfmxljvs
+ + 1 = 4076
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three2sixprmhc
+ + 3 = 4079
+rx5six
+ + 56 = 4135
+fourdb13lfjjbpx74three
+ + 43 = 4178
+five42
+ + 52 = 4230
+8sixthreemfgl7vqhtr783
+ + 83 = 4313
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8two1msvkqrr6klgsdmrtcqv
+ + 8 = 4321
+85rjrhtk4xqbeightthree1
+ + 81 = 4402
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+79three18kjvmnbnjnrvrgh
+ + 7 = 4409
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8cfpseven97eightkslkrlxtrssdh
+ + 8 = 4417
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+trrmhcmtwo1rpkb27fh
+ + 2 = 4419
+threerjoneonepmdjgcrjlmlqvqbpzg7three
+ + 33 = 4452
+leightwothreeninesixtsljvdl1nflg249
+ + 89 = 4541
+ph59fzlxzfjdxpqmzp24
+ + 54 = 4595
+hhjxhjthcnkhxrgmcrlonevzrxjqs87
+ + 17 = 4612
+91psxvvmnqqsixxthreetwo
+ + 92 = 4704
+9jbb73kdxhxxcvlhlcdknine
+ + 99 = 4803
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ninesixntrngtp7jzkgbgxjp
+ + 9 = 4812
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+12sevenqnchlxzh1mhthddbl
+ + 1 = 4813
+vqmdttbkpkbhzcf9341
+ + 91 = 4904
+bgvqpsxhtwoseven94lrkxkrjxq6
+ + 26 = 4930
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+92one5hkmdbmgkqdqnsk
+ + 9 = 4939
+2jdkfjttwo1
+ + 21 = 4960
+q9
+ + 99 = 5059
+pzqjsvvjnsfzxrtmqdxv6
+ + 66 = 5125
+kxcxtnqsixseven2rnjncvbcbbrxhbgtwonine
+ + 69 = 5194
+jxpvsbmxsglfqs4pjbffive4ninesix2
+ + 42 = 5236
+eightlnv4
+ + 84 = 5320
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+qxdzrcjmcbx9rchjmvkt
+ + 9 = 5329
+571z6
+ + 56 = 5385
+vqfqtsn7oneonethreeeight
+ + 78 = 5463
+lnnmzone216nscppjvtlqztkbcxsix
+ + 16 = 5479
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+six33lfvgmjx
+ + 6 = 5485
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kjpscbx41bvgjcpdkfive48sfpgdchclhlzmn
+ + 4 = 5489
+rfqhqqrxqtrnmkqsrkponeltl1
+ + 11 = 5500
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three7nine45xqspsfour1jdqcnjz
+ + 3 = 5503
+96rt49fvhzbknvxpfive
+ + 95 = 5598
+eightxpgqg9
+ + 89 = 5687
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onetqcrxzzmt6cbjh
+ + 1 = 5688
+ninerfbvpbzbxqseven2
+ + 92 = 5780
+9sixkhqrrk6four
+ + 94 = 5874
+9jff17
+ + 97 = 5971
+4five3ldtbmsdbcvttrkvprseven
+ + 47 = 6018
+7sixvgbttfdtcjcxvflnklpsnjpp54three
+ + 73 = 6091
+eightmpndj74nine
+ + 89 = 6180
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+hmbncvctfive72h
+ + 5 = 6185
+fxnm7twoseven87
+ + 77 = 6262
+oneeight11ninejbhcprshx74
+ + 14 = 6276
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+78eight29fvqtf
+ + 7 = 6283
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2ffdz
+ + 2 = 6285
+meightwoeightfournineqjjxfourvkxsvcbn58
+ + 88 = 6373
+7cq5smpmgntnhvgrslb16one
+ + 71 = 6444
+33six
+ + 36 = 6480
+one5grbxtprmbtlninefive
+ + 15 = 6495
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three7qfnzmbqmnh563six55eightwot
+ + 3 = 6498
+kvtpmkrhvzfourxdknp6fivegqcshz4one
+ + 41 = 6539
+sixznzftmbf9ccflfiveone
+ + 61 = 6600
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6two6rmsjnmdmtbxmtjhcpsqkvppjfvp
+ + 6 = 6606
+lxqnslxqneighttwo7
+ + 87 = 6693
+3ninelmzqrrkvmxpkpsdtghtkxrfcfive
+ + 35 = 6728
+tgknhvqz5cdjfourpzssxgxxrx5
+ + 55 = 6783
+6223
+ + 63 = 6846
+1threesmvhfrkxdnxhfthree1nqcrfjhnt2
+ + 12 = 6858
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four7bflnvpfqhfclhnsc
+ + 4 = 6862
+msmd6
+ + 66 = 6928
+xcqx5ninecc4onefour
+ + 54 = 6982
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sqrdkpzeight936oneighth
+ + 8 = 6990
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three9pgm
+ + 3 = 6993
+zzskhnglgvthree83xs4
+ + 34 = 7027
+8xccmplxb5
+ + 85 = 7112
+j8171cqjmonetwo
+ + 82 = 7194
+7xxlxkheight7eightjpxdql56
+ + 76 = 7270
+oneseven9nine
+ + 19 = 7289
+19fivezcltxsklvx8nine2nine
+ + 19 = 7308
+lcjvnn991six6six
+ + 96 = 7404
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+zcjcnnvfive852hrqlktzskpqgtchjb
+ + 5 = 7409
+sevennine59
+ + 79 = 7488
+9fdbstknkd3
+ + 93 = 7581
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8nineninekcrrshrgpttjsskvbfnhgrmbkzfd
+ + 8 = 7589
+njtonexpzhdszdcthreedsdqsfvp5
+ + 15 = 7604
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4rhfk
+ + 4 = 7608
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+68six9ninembksbtzk
+ + 6 = 7614
+57eightthreetwothree
+ + 53 = 7667
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5eight8three5lrhdbsnj3lncs
+ + 5 = 7672
+lthree68seven
+ + 37 = 7709
+fivetwo2vmndlgtbkg4
+ + 54 = 7763
+2rfjdshttkkvl523
+ + 23 = 7786
+b7mrzsfour
+ + 74 = 7860
+nlzsg13
+ + 13 = 7873
+jpfcvrfkqbszvht93
+ + 93 = 7966
+9jqts83lxprbsbpqx5seven
+ + 97 = 8063
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kbnf78hktfn
+ + 7 = 8070
+seven43rvjldsfvzpssjlsevenfcpjfxtls4
+ + 74 = 8144
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixsix12djn
+ + 6 = 8150
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fouroneeighthxtpppjrhqqmlzvvsrqk9gmkqpqkplpg
+ + 4 = 8154
+8twoone577
+ + 87 = 8241
+zcn6sixfour5three
+ + 63 = 8304
+gb8three
+ + 83 = 8387
+nine7rnzsqshxrxnineone
+ + 91 = 8478
+bgrnone7vqsxmjneightpfour9nine
+ + 19 = 8497
+fbznfkxhvd9nhvpvqhlmzvr66five
+ + 95 = 8592
+bvkglbdzmvnine3eight1t9
+ + 99 = 8691
+365
+ + 35 = 8726
+fxvfqkclm8oneonesix8
+ + 88 = 8814
+45four2twombjhhssnonefour
+ + 44 = 8858
+sixgkhcf92
+ + 62 = 8920
+7thtrjnlxj3sevenone
+ + 71 = 8991
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fourthreeeight9hhs49gqrxcmk
+ + 4 = 8995
+ftbzpdgljnknktwosevenvlk4
+ + 24 = 9019
+two6tmjfllfdhthreeseven8
+ + 28 = 9047
+eightzfphtm6ct39five
+ + 85 = 9132
+7sevenfivethreegnmpteight
+ + 78 = 9210
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1one3rfjfhmzqqz522fourhmhvqrqmx
+ + 1 = 9211
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+383nineeight9eightjfdhmjfrj
+ + 3 = 9214
+sqkmgfxzdgp7sevenqlvcrtlqkjdrbhnrvhrxjlkrfmgcfour
+ + 74 = 9288
+twoshslmzcjshcnxvhnh9twomscx1
+ + 21 = 9309
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+hrdtwosix4threehrqqczzpflseven5nqcct
+ + 2 = 9311
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6ninezltlrxrgsnjxpkjvnmlzvcpjxkkmbld
+ + 6 = 9317
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+984nqngbcdnscqhbdzfmpjs
+ + 9 = 9326
+5sixfivethreesixfivemrsxjglmzbtsneight
+ + 58 = 9384
+gsg8xsgtwofive13one
+ + 81 = 9465
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+cgdhztzxg57rmj
+ + 5 = 9470
+8sixldnzrrrthreeonesixsixfive
+ + 85 = 9555
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+47twofd
+ + 4 = 9559
+gs4ntjbjnfmn2kdxxsix
+ + 46 = 9605
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1gbfj86xntxgnine55gsmz
+ + 1 = 9606
+5gtsgxbpxkblvfh4six6
+ + 56 = 9662
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2fzzsskzthreethreetwogqldvtfmzcsz
+ + 2 = 9664
+jbjggvkf51fourrcltfrfive
+ + 55 = 9719
+foureight5
+ + 45 = 9764
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+rnrt5fjkjjfkgdnqdseven9tbrrpc
+ + 5 = 9769
+cbftwonesfvlgqq939
+ + 29 = 9798
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kjzqzdv75eightt
+ + 7 = 9805
+4mlsninejknfgvdhpgtwokphtgvqsg53
+ + 43 = 9848
+6d2fivefgfoneeight2
+ + 62 = 9910
+onejrnjpkbcsjkfeightxvbzjtdmb3qz6
+ + 16 = 9926
+8fmmthreeeight6five
+ + 85 = 10011
+t19182foureight
+ + 18 = 10029
+seven4nine4five16eight
+ + 78 = 10107
+4bklkqnfht6tcnxjxrtmn1zglmtrfive
+ + 45 = 10152
+qbzszxdv42r8
+ + 48 = 10200
+19kgnmmf3txszjcjrqgxrfive
+ + 15 = 10215
+7sixqlvhrkrn7fivesix
+ + 76 = 10291
+8fzqkmfrvhqn6brzxx4
+ + 84 = 10375
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2sevenfour6sixfourrrvptzrhtv
+ + 2 = 10377
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+k47one13qxzpzstnm
+ + 4 = 10381
+3fourfourcgj4
+ + 34 = 10415
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4lhh
+ + 4 = 10419
+6nmjbcbqqjkttvcxjhjrplpcsix4
+ + 64 = 10483
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8rntsllnpd
+ + 8 = 10491
+j5eightfhxzhjmjcthrrtxf3
+ + 53 = 10544
+6ndkkbtljlkr5
+ + 65 = 10609
+sbs5nine
+ + 59 = 10668
+prjsqdx11
+ + 11 = 10679
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7onesevenseventwo3one1twones
+ + 7 = 10686
+691
+ + 61 = 10747
+twonhmbtxd8981
+ + 21 = 10768
+b5
+ + 55 = 10823
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4mgzfvgcbztqc
+ + 4 = 10827
+qlgkqzbtclsixdcsrjmldfqcjnk29
+ + 69 = 10896
+sixngv4
+ + 64 = 10960
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kqqjpnnmfourchkcphjq1xn
+ + 4 = 10964
+four87one9twoxzcskqbgc7
+ + 47 = 11011
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+seveneightone3hxsxjrninepzqzfjc
+ + 7 = 11018
+2four35five
+ + 25 = 11043
+ffftthhnv4jpddcphseven795
+ + 45 = 11088
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+six9sdlljbmxtnnkhfourzn5zhr
+ + 6 = 11094
+7four24twoltngrkhtwo
+ + 72 = 11166
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+573sdvhrhfhxfxdsqhjrz
+ + 5 = 11171
+dvcfqmzltkone2mrtcc4eight
+ + 18 = 11189
+1jrgxblmdqz4
+ + 14 = 11203
+fiveeightninethree4bsevenfour
+ + 54 = 11257
+crpz9three3791
+ + 91 = 11348
+onethreedfrxkvqs53three1
+ + 11 = 11359
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+dnrmthvknineoneeight8lgvdnjt
+ + 9 = 11368
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+bjbvskthreeseven29mrmt
+ + 3 = 11371
+lbbjdvlqfb5rnine
+ + 59 = 11430
+zfloneight2phbzdvjhmtwoninepgjlxpbjtjmgdbeight
+ + 18 = 11448
+seven3xhfgkoneseven
+ + 77 = 11525
+jlgmxqrbtwo4
+ + 24 = 11549
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one7sffjzqzsxq
+ + 1 = 11550
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6xncthreefqvhkmjdd
+ + 6 = 11556
+7twooneone5
+ + 75 = 11631
+7dhzht44pmknlmsqdhnine
+ + 79 = 11710
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fxbcxbnkdninesqsixtwo2twoksdcqfqccnltk
+ + 9 = 11719
+chhl58
+ + 58 = 11777
+9threefourfour
+ + 94 = 11871
+54eight3eight
+ + 58 = 11929
+79sbsqj62
+ + 72 = 12001
+blncmcqnsxfive5threesixqkzv9three
+ + 53 = 12054
+nnrxqdtth7threesixsix
+ + 76 = 12130
+jklzjg5fouronelsfnqtpsix
+ + 56 = 12186
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eightlmvqn8rhvlm
+ + 8 = 12194
+eight3dv32twofour
+ + 84 = 12278
+cxndxfcsix5rgvtmlbpvcftphq73
+ + 63 = 12341
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fourhcqrdsfcxjdxj6crnzrclbggvsvq
+ + 4 = 12345
+ninesix9znineninetgvr5
+ + 95 = 12440
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nine5rsqbrrlmnztdgspx
+ + 9 = 12449
+6nine7lthcjbbqskktvnmnz6four8nine
+ + 69 = 12518
+pg4fxgvfhtg32one1
+ + 41 = 12559
+pceightwosixfourthreemkqtncvztwopqdvmtqlleightrjnmm9
+ + 89 = 12648
+3eightsvqdbgcntv37twonine
+ + 39 = 12687
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4twoktwoone42zsgcxlgkjl
+ + 4 = 12691
+4hlfvmpmssf7
+ + 47 = 12738
+zhcvpsevenseven3
+ + 73 = 12811
+7tsdxhfrfdkeighteightnine3
+ + 73 = 12884
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+tzeight8sixeightmqjglrcpc
+ + 8 = 12892
+kponeightcmhqfzc9seven6lxrxh5
+ + 15 = 12907
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+84dpccxdjvxkmngdlxzct
+ + 8 = 12915
+6scjxxctt3txvnlm4n2nine
+ + 69 = 12984
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2fivexjjf551pnkgdz
+ + 2 = 12986
+34dclnf633four
+ + 34 = 13020
+7vvkqbhscconefive7sixfour
+ + 74 = 13094
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fourfiveoneone4dh
+ + 4 = 13098
+fivesevenlzbbzr7one
+ + 51 = 13149
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+jxsxcvp5sixnine6pleightdp
+ + 5 = 13154
+5xbcnhrkgzxsonethreefoursix
+ + 56 = 13210
+6ld4
+ + 64 = 13274
+vl38nine2
+ + 32 = 13306
+335
+ + 35 = 13341
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+svreight93fkksv
+ + 8 = 13349
+26hfsgjrhmftqgljglbfgrvzjvl5
+ + 25 = 13374
+sixtgngfsmq148
+ + 68 = 13442
+four9qzndrcxkr72241
+ + 41 = 13483
+3xhznspqsix1
+ + 31 = 13514
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7ninesevensix6xtlzkhgrjxzngqvg
+ + 7 = 13521
+nine51
+ + 91 = 13612
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one92mrxhfxkrv
+ + 1 = 13613
+2ptjpbk42six
+ + 26 = 13639
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4cnrclct
+ + 4 = 13643
+zxpfnqt48m4
+ + 44 = 13687
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+qmcbkgrzf4xkjfhclfr76xgvzvhhvsml
+ + 4 = 13691
+fourqf4354
+ + 44 = 13735
+8tgfspgpbnine49fivendfhr5four
+ + 84 = 13819
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2fvdx
+ + 2 = 13821
+7vksevensix2pjqnqgsqtjoneone
+ + 71 = 13892
+rxnneight9four
+ + 84 = 13976
+fivetwoeight9fivefbmlthrneightq3
+ + 53 = 14029
+2cfpzkbvncvnine7lzvfiveeightkvrdqeight
+ + 28 = 14057
+8sixvsvnnm29
+ + 89 = 14146
+gbmppktltvzzcprsm825
+ + 85 = 14231
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+dkthree7cjhfvpfpfq
+ + 3 = 14234
+tltssfqbjmtrnmjnntsfzcqmhfkncgsixl5
+ + 65 = 14299
+xbskrbrszxbmbxskcvrrvfzd8
+ + 88 = 14387
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4vd
+ + 4 = 14391
+8fourthree
+ + 83 = 14474
+b6
+ + 66 = 14540
+onefourcrtxdhkz6
+ + 16 = 14556
+z4hhfive5three5
+ + 45 = 14601
+rklffnxntvgprtrxztwoeight31
+ + 21 = 14622
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8b
+ + 8 = 14630
+eightnqnzthreerfpr7
+ + 87 = 14717
+rkjlggxft4cvnzncrrlseven
+ + 47 = 14764
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+lvoneeight62533ltbq
+ + 1 = 14765
+6eightninetwoztphnkhdthreehdldhvkfvp2
+ + 62 = 14827
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fpnqfqone4sixmcjnqbj
+ + 1 = 14828
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twoeighttwo8kmzcsvxhqt
+ + 2 = 14830
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5bstjtjbgfsixfour2vhsblxnvptx
+ + 5 = 14835
+5pdg6
+ + 56 = 14891
+9xztgbqc91
+ + 91 = 14982
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7nrjxssvnxr99five24nfn
+ + 7 = 14989
+79456eightsix1
+ + 71 = 15060
+onembcqhcszk2nineone45hkvxtkdfive
+ + 15 = 15075
+69slhrknjnvsevenone1ctwo5
+ + 65 = 15140
+22fiveninemn6pxqhgvhqkjonethree
+ + 23 = 15163
+1five21five
+ + 15 = 15178
+fivezjvzfive4
+ + 54 = 15232
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five9sshrnpxxxjjlkt
+ + 5 = 15237
+fdznqdjdcmvnhjrhpgdnjmsljdone8
+ + 18 = 15255
+two8threemmeight
+ + 28 = 15283
+bdzrdgpmd1
+ + 11 = 15294
+1cnmvtknine2oneeight
+ + 18 = 15312
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one4zklszzvdd
+ + 1 = 15313
+twokvppczbhdkdnpkmkcp7
+ + 27 = 15340
+mrnsdlc465seveneight9nmlpfive
+ + 45 = 15385
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+lzgrvsflljtkcs3fiveonenxnrljrbdvs
+ + 3 = 15388
+1sevenfour
+ + 14 = 15402
+ninehzrfourseventhree91
+ + 91 = 15493
+3vlsix
+ + 36 = 15529
+8bpgkrcznine4
+ + 84 = 15613
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eight33threeeight3twonepr
+ + 8 = 15621
+26threekfnklxrsc1eight
+ + 28 = 15649
+seven92b8nlvtrrdkksone
+ + 71 = 15720
+9fivenine5dqdbdnnnbd2xpnnnlxszzeight
+ + 98 = 15818
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four5fiveqvjxtbvvpn
+ + 4 = 15822
+htwonine6
+ + 26 = 15848
+tgvhnmphninepsrxjqrsktnj4three6
+ + 96 = 15944
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+seven9lpgxhqbhfrvjkptfjkxgslc2two5bc
+ + 7 = 15951
+1dcbhbvvl29threezthggl9six
+ + 16 = 15967
+tjt9fivehseven8one9
+ + 99 = 16066
+cjzgdrb56twoljpdhhnfive
+ + 55 = 16121
+9onefourclmsrzkcxkkxjbjbnine6
+ + 96 = 16217
+ftgzppdr2
+ + 22 = 16239
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+dfdtddxjgxhthvzpnv6two63fivetb
+ + 6 = 16245
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4bczfllzdztqv
+ + 4 = 16249
+fpgppvsl2fivesevenslhbjqsf5one2
+ + 22 = 16271
+tfpzhjbmltxkc1rptpdnlgm7
+ + 17 = 16288
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ctrfnfxvbjkr9five1threeeightwontc
+ + 9 = 16297
+vstwone2one
+ + 21 = 16318
+zssoneight9
+ + 19 = 16337
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four1twooneightkvm
+ + 4 = 16341
+9five2
+ + 92 = 16433
+9six3nine5921seven
+ + 97 = 16530
+3one1
+ + 31 = 16561
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7pxlf
+ + 7 = 16568
+g12xtfdmsix8six14
+ + 14 = 16582
+cmfourcgjthreesixfivenine6
+ + 46 = 16628
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2pjpbpnljp
+ + 2 = 16630
+tcqgcdlfjmm4two7one
+ + 41 = 16671
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+gx3nrvmrvfrbd
+ + 3 = 16674
+onefourmxrcbmf1six
+ + 16 = 16690
+five58f5dsbxfvgztwo
+ + 52 = 16742
+24four62one
+ + 21 = 16763
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+48mnfcrkgbvxc
+ + 4 = 16767
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five2krvfsg
+ + 5 = 16772
+2eight7
+ + 27 = 16799
+67sevenkgsvlthreekhsix
+ + 66 = 16865
+tone36tnbbgftvzffeight
+ + 18 = 16883
+kpc87
+ + 87 = 16970
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eightsqm4hbfndbfnseventrsrsrvhqssbgvq
+ + 8 = 16978
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nine7139tgdxlklkdcvqdvm
+ + 9 = 16987
+qzlts53dvrseven7two
+ + 52 = 17039
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+167ggvsvgrdgs2zgjmxlnthreetrgx
+ + 1 = 17040
+gdplsdjf379eight
+ + 38 = 17078
+blkfjx4
+ + 44 = 17122
+558rtsqsgpgjknine
+ + 59 = 17181
+81six
+ + 86 = 17267
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2ninenvp
+ + 2 = 17269
+62sm68one
+ + 61 = 17330
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twobhrtzvmfive8msxvl3nbdpn
+ + 2 = 17332
+4jgeightbjxzsqtnvd3nineeight1
+ + 41 = 17373
+8564oneddbcqkxgfqjcl8
+ + 88 = 17461
+6two68six61nine
+ + 69 = 17530
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+cztwone2thdmkgftvmcccfsxrfpxxm
+ + 2 = 17532
+four8fcdpdcghzzmnconerjmkznbkv17
+ + 47 = 17579
+jfourfive4v53sfnine
+ + 49 = 17628
+4543fiveptzlmzpblflvqklseven
+ + 47 = 17675
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+58qglltjtwosixclpjbmq
+ + 5 = 17680
+3gmsphjqjxn9dthhn6eight
+ + 38 = 17718
+fourpgqstrrc6xdfnrmfprn59
+ + 49 = 17767
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5threecxxjnk
+ + 5 = 17772
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five6jhbkbbc
+ + 5 = 17777
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nvvtslxbggvx23foursixkld
+ + 2 = 17779
+srcrvmcczfvgfqqh79seven7four
+ + 74 = 17853
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+jmvlfqhxtfvn12hd
+ + 1 = 17854
+hv5seven
+ + 57 = 17911
+nxrtnggfnineqhmhmrhp8ninetwo
+ + 92 = 18003
+mrtkcqvgsixsixfive54
+ + 64 = 18067
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+h5sevenmrsk
+ + 5 = 18072
+qftone1tmgsrdsix
+ + 16 = 18088
+vqvfbxfsix13sdhjznmttnine1
+ + 61 = 18149
+3threetworcpsxtbpvsgtfmnine
+ + 39 = 18188
+81nq9
+ + 89 = 18277
+two19ninetwo
+ + 22 = 18299
+dtvrjxzlthree4
+ + 34 = 18333
+four1853dqone56
+ + 46 = 18379
+pvcnbrjpsznfjv1jfhbhsmvtwo1two
+ + 12 = 18391
+7seventwo3eight
+ + 78 = 18469
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8threetwofour464gdqrzphgkxnc
+ + 8 = 18477
+64fpvcznnsrbfour
+ + 64 = 18541
+9twofive
+ + 95 = 18636
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9339five2jvcsdfivemzrgjfmnnl
+ + 9 = 18645
+four5cfstbksix7sevenpsix4
+ + 44 = 18689
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+jctwonecfqgpqkhhmninenine3ninejhqsbfsgjj
+ + 2 = 18691
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4twosix4gshj7lpkxrtdfb
+ + 4 = 18695
+js7
+ + 77 = 18772
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+77rxmvrlqkcskjnqxmqxbg
+ + 7 = 18779
+ct2one
+ + 21 = 18800
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+glcbv6eightseven3eight3sevenqcg
+ + 6 = 18806
+6sixonedxeightone8
+ + 68 = 18874
+4oneeighttwonine
+ + 49 = 18923
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+three9nljrrxqtxhnpsrlvbtjdznhjgmhkncrpmcpx
+ + 3 = 18926
+vvnclvjj18
+ + 18 = 18944
+eightfivetbqc9seven93
+ + 83 = 19027
+dmsh1onethreeeightsixxqdcxfive
+ + 15 = 19042
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mxkfpmmvhtwo8rbxrvgbsgzmcrfsfhmqcxkr5jxzzb
+ + 2 = 19044
+onepqxxnxknfourthree2
+ + 12 = 19056
+four9185nftjmvfour
+ + 44 = 19100
+one8ninerrssdsfhkjltdsndjgpfour
+ + 14 = 19114
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+tttqlggtnine33tzp
+ + 9 = 19123
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7eight99mcztone3vhm
+ + 7 = 19130
+vbvpzvt9three8
+ + 98 = 19228
+95jmbnlfvk1four7
+ + 97 = 19325
+2tgzdneightfive4
+ + 24 = 19349
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8seven3two3kprxhpcxssevenmd
+ + 8 = 19357
+twoeight89mngzqlrx2
+ + 22 = 19379
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+v78jnbrxpqpsixeighttwo5ljpvphjld
+ + 7 = 19386
+djmmbtgpchninekhpgrzskdddmmg61
+ + 91 = 19477
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+j13six78zdsmllspj
+ + 1 = 19478
+3qbqqpkljnqsix6xrldfr9
+ + 39 = 19517
+93fourfxnb553fhpdv3
+ + 93 = 19610
+rvnlmxfbfour3
+ + 43 = 19653
+6t51
+ + 61 = 19714
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+69oneznlvmmpbfourbvkpxg
+ + 6 = 19720
+2dffthreetwothree
+ + 23 = 19743
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sevenonekvqrfv748pzkhxgddh7jtcbhdrcmj
+ + 7 = 19750
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onexhzzdqmtb6dmqmkvzpjftcm
+ + 1 = 19751
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four2onethreerk
+ + 4 = 19755
+threesevenvxzdlpfmq8
+ + 38 = 19793
+seventhree172three9
+ + 79 = 19872
+fourspjcvlfkm9
+ + 49 = 19921
+ninefoureight4six
+ + 96 = 20017
+nine6nstfivesix7eight
+ + 98 = 20115
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+18mrfktwohnslcdxl
+ + 1 = 20116
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ldxjnvjpq7kstghdnkf
+ + 7 = 20123
+dbdvfoursixonefourghplcnlqrd998
+ + 48 = 20171
+1xhhrqzx24
+ + 14 = 20185
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5fgfjvgps241fqzzf
+ + 5 = 20190
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4rjhdv
+ + 4 = 20194
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five8qfnkqrrtbninefour3vqb
+ + 5 = 20199
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6jbtmcfrjq
+ + 6 = 20205
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+rnspzzhqtnine7lfllf
+ + 9 = 20214
+tkgxsmjhprnnd1pbgftd7
+ + 17 = 20231
+hcjf4four1fourseven141
+ + 41 = 20272
+3eightfiveplfrzmbnclsevenfive1
+ + 31 = 20303
+mx1hshhprppqnl64
+ + 14 = 20317
+bvpqd6kmlntxv95ninekgdtks4
+ + 64 = 20381
+kbcnqxc4eighths4dvkkvndpzhsix
+ + 46 = 20427
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1sixfivefivesix7f7twonel
+ + 1 = 20428
+ztqxklqbcnineeightthreesix5fivetwotwo
+ + 92 = 20520
+4sixkmgpq68five7
+ + 47 = 20567
+fpccz628p3
+ + 63 = 20630
+sixfiveseven8lsqtwohkreight2
+ + 62 = 20692
+5ninevjncfour
+ + 54 = 20746
+sevenjxbflccqdxbkqonethreenineqr2
+ + 72 = 20818
+lcseven3
+ + 73 = 20891
+eight8threeone
+ + 81 = 20972
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6four8eightwokt
+ + 6 = 20978
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8jrckfmrjct
+ + 8 = 20986
+sevendxcrjj1
+ + 71 = 21057
+1gmngdnkhntwofourvfdtzhdnrzdqprrnf7two
+ + 12 = 21069
+5cmsfmdqtjc368five
+ + 55 = 21124
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mqxkkhxdhvd6zjlzqzqz
+ + 6 = 21130
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2qphczzbsixnine5fourlsgh
+ + 2 = 21132
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twofourtwo6one3pgd
+ + 2 = 21134
+jt8four9threeffvnnk9
+ + 89 = 21223
+xkcskxvlrsix4onesixfive7
+ + 67 = 21290
+jqbzkfjlnk8eightnine79nine5four
+ + 84 = 21374
+drppqxhzkxtbzrsbh6seven
+ + 67 = 21441
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5fivepnjdfgmd8cvtgjvfrslcjll
+ + 5 = 21446
+jr69
+ + 69 = 21515
+rlftnx6six
+ + 66 = 21581
+38three3
+ + 33 = 21614
+27eightthreefour3pvtwo
+ + 22 = 21636
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+29fourqlkslrsq
+ + 2 = 21638
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+79g2one3sixqfbqhgbtdt
+ + 7 = 21645
+97sevenseven
+ + 97 = 21742
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fivefive5fivebdnmh
+ + 5 = 21747
+4nine8nine4seven
+ + 47 = 21794
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+918pcggpvmhgs
+ + 9 = 21803
+five37three
+ + 53 = 21856
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+htn4tztkrq
+ + 4 = 21860
+23onefourthreefour5
+ + 25 = 21885
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mbzmtbsvone7xbxvprdcjdonefourbtnkkgnmcr
+ + 1 = 21886
+2kksixsix
+ + 26 = 21912
+44three
+ + 43 = 21955
+7nine5fiveoneninevpbnvrqxlsix2
+ + 72 = 22027
+jsthree4p8427
+ + 37 = 22064
+jmthree4
+ + 34 = 22098
+5six1fiveseven4
+ + 54 = 22152
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fbqrfn94twosix9kfgdcx
+ + 9 = 22161
+threethreevdcqqlrt2fourns7fourseven
+ + 37 = 22198
+rrrxrxtpstwo9mtmlxrjdfour35eightsix
+ + 26 = 22224
+5four2
+ + 52 = 22276
+cbeightwo3
+ + 83 = 22359
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9zrfx
+ + 9 = 22368
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vgxdtlr3rsninekzgvsgvt
+ + 3 = 22371
+bzvbxprzvnfivetwobclh881
+ + 51 = 22422
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4nzztwo5five7hkx
+ + 4 = 22426
+rblhc87
+ + 87 = 22513
+cljrtkmldjonemsqchdcjc6
+ + 16 = 22529
+xhninesevenkonedjsfhtznkkszm7three
+ + 93 = 22622
+63gvpflbxrvlsevenlqdsx2
+ + 62 = 22684
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ninefour6fiveclqnnq7pmg
+ + 9 = 22693
+6fourjvljvgsevenk3
+ + 63 = 22756
+twofive5nine
+ + 29 = 22785
+tworfnjt8fivesdmlnm72tpglhrone
+ + 21 = 22806
+14twotwo
+ + 12 = 22818
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+84qsoneightdxt
+ + 8 = 22826
+six9pcthree
+ + 63 = 22889
+five9935oneptphsctwo6
+ + 56 = 22945
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+seventhreenine63nnszbxddjslqsgjdj
+ + 7 = 22952
+zpmclmrmql8dmfkfour8three
+ + 83 = 23035
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6onethreefivekpmv
+ + 6 = 23041
+1jdcmhfour73eight9six6
+ + 16 = 23057
+397threesixvlk8one
+ + 31 = 23088
+sixmqntxqlpdh54
+ + 64 = 23152
+hcleightwo8fourtwotwotwo2fournfour
+ + 84 = 23236
+two7four6five7threepdhpfive
+ + 25 = 23261
+onegdxlkddhkndtgbfgh95three
+ + 13 = 23274
+skjqgfnq55sixsrxzprdqfour4
+ + 54 = 23328
+113bsixsxtwo
+ + 12 = 23340
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9tssbdp92453onesxfpkg
+ + 9 = 23349
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sevensix1mpc
+ + 7 = 23356
+one8sixeightseven
+ + 17 = 23373
+threevsbtbtjpdnbtbjjkseven1
+ + 31 = 23404
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+ns5twoneg
+ + 5 = 23409
+fourfive6five6six
+ + 46 = 23455
+7twokcdcpb7
+ + 77 = 23532
+43nine1lgcdskpztsixthree1
+ + 41 = 23573
+fourzlqhcpn8eight
+ + 48 = 23621
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3btgcksvlzzqpghllq
+ + 3 = 23624
+82threebrnxvgqtlvxnxzpk84
+ + 84 = 23708
+three872
+ + 32 = 23740
+7three3
+ + 73 = 23813
+94fivedktkggcmfour
+ + 94 = 23907
+fourgvkdzseven63two
+ + 42 = 23949
+mtbrh6cv36five2gm7
+ + 67 = 24016
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8ngzftpfvjzthsv
+ + 8 = 24024
+bmhbq5
+ + 55 = 24079
+4threekprhxjbj6
+ + 46 = 24125
+l7ninenineone9two36
+ + 76 = 24201
+threefpzq4tlzmrjthsthree6ninesix
+ + 36 = 24237
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4bbjkdrc89fvdqsrcl
+ + 4 = 24241
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+62lpmdbmjbfourglxxh
+ + 6 = 24247
+1mtnpqdlctt4
+ + 14 = 24261
+qf9gblvrhkqv9rknxrgf9two
+ + 92 = 24353
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+12fjdjrcfmx
+ + 1 = 24354
+nine1six
+ + 96 = 24450
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+22two3rkpxjvkhflqfjgf
+ + 2 = 24452
+2488four
+ + 24 = 24476
+8vlgcjqqstz1qs1two
+ + 82 = 24558
+vsoneighteightcqtv7fphhbbj1sixzrhhfgj3
+ + 13 = 24571
+xeightworlggcdsdk18five8one47five
+ + 85 = 24656
+4eight8
+ + 48 = 24704
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4ldcmctd4j
+ + 4 = 24708
+xmoneightxkq512pdlpknhrvhonesevensix
+ + 16 = 24724
+lptfv5lhhkdvlktzttjh7
+ + 57 = 24781
+dtflmvvczninesevenfive8
+ + 98 = 24879
+pmbhzsqpxtvninetwoctktrmtcvv7
+ + 97 = 24976
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3rv
+ + 3 = 24979
+two1mvhttdnpd94seven
+ + 27 = 25006
+gqpbznlqsdsh6zvgseven
+ + 67 = 25073
+twohsixgqgcvhkjrz4four3
+ + 23 = 25096
+eight7nine1
+ + 81 = 25177
+ninempfnhgdfpkxrzl3hzcgxhtcfctwosixkphztwo
+ + 92 = 25269
+69five
+ + 65 = 25334
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nine3rfmm
+ + 9 = 25343
+76mmxrr72five
+ + 75 = 25418
+cshknkjeightnine9
+ + 89 = 25507
+hqhzptzcpfsn78cdfdzmtxjrvqvrkpc9
+ + 79 = 25586
+ninenine6four
+ + 94 = 25680
+four27
+ + 47 = 25727
+3djdrbffcqfourfivethree92six
+ + 36 = 25763
+vjdnineszrzqcbd3594
+ + 94 = 25857
+bk56nine24
+ + 54 = 25911
+eightqtvd563
+ + 83 = 25994
+rhcfbpssl5tvlbjd3one
+ + 51 = 26045
+fourzpl3
+ + 43 = 26088
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+qjxdnjx6lhmmcsix7threergqb
+ + 6 = 26094
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3six67threehq6ldh
+ + 3 = 26097
+nine5three1
+ + 91 = 26188
+seven9fivehqkdngpeightlbplfpgnjlvlmjmttone1
+ + 71 = 26259
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+snlrgqgfninegxdvnbkjjs84six3qtqhghh
+ + 9 = 26268
+tvchztbkninenineseven83
+ + 93 = 26361
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3kgbsvmhlgtvhscl
+ + 3 = 26364
+svzz1four4eightxtfsvt34
+ + 14 = 26378
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nfks2vzvsgbqf
+ + 2 = 26380
+8eightfivethree
+ + 83 = 26463
+hltdcxmfxbnskvhqsevenmgb1
+ + 71 = 26534
+2threesix6zv4two5seven
+ + 27 = 26561
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+dttqcxj2phftphqnqczcgbzsevenfour9nxjf
+ + 2 = 26563
+mj689mddc1three
+ + 63 = 26626
+four11sixrmtjtdsevenseven1
+ + 41 = 26667
+2nlszmgkthreesix
+ + 26 = 26693
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+15sixkdzcndm6three2gpftjlr
+ + 1 = 26694
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8dxkhtpfqm
+ + 8 = 26702
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7jgnhvb
+ + 7 = 26709
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4tscbjh
+ + 4 = 26713
+nineseven6slg6jfdjvtwoknxmxsb2
+ + 92 = 26805
+mcdfnbzbtl3sixfgpsmhnqxdldz4
+ + 34 = 26839
+three3seventmbpxmfksrh3
+ + 33 = 26872
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4vtbkjlzhdvninetwo152k
+ + 4 = 26876
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threeclmlfbz4sixeightvkrtlsnlkczm7pnrrxrdh
+ + 3 = 26879
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onef5eightsevenzlrlvj
+ + 1 = 26880
+eight99five
+ + 85 = 26965
+onekrtmtsthreefourninell64
+ + 14 = 26979
+eight5three6six
+ + 86 = 27065
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+29ht
+ + 2 = 27067
+qbsjkkkjrv7seven
+ + 77 = 27144
+gsxfpgreightzvqfbmh4
+ + 84 = 27228
+onetwornine2nine
+ + 19 = 27247
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+87xhgxb4kbmqds
+ + 8 = 27255
+4qhjghqqzfour8
+ + 48 = 27303
+213five5
+ + 25 = 27328
+crqvxvfsktwo9
+ + 29 = 27357
+64qfpfpbxhzpdlthree8five
+ + 65 = 27422
+sixfhdr7
+ + 67 = 27489
+hzdnzbc4fourthree
+ + 43 = 27532
+lprmfrxxzf2
+ + 22 = 27554
+onekkdnpczfj7
+ + 17 = 27571
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+xl2one8cfxvgpgxzp41fourh
+ + 2 = 27573
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+848jqvfxqmdfktwofournlqsqqsfmb
+ + 8 = 27581
+81six291
+ + 81 = 27662
+xnxnqtlzqcttwo9
+ + 29 = 27691
+lvfq254one
+ + 21 = 27712
+seventhree3
+ + 73 = 27785
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fiveonenineqcldqlhlqjbdmtbntqs9xbshtltxg
+ + 5 = 27790
+5fiveljvgksvfq6krfljkqdqnmvmtg6
+ + 56 = 27846
+8fournine
+ + 89 = 27935
+4mxpfdq7zlmvslnj99
+ + 49 = 27984
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6txrss9threejhxjps
+ + 6 = 27990
+fourfive1qrkbjppbnqeight
+ + 48 = 28038
+bb2
+ + 22 = 28060
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3nine34652tthctwonebp
+ + 3 = 28063
+vpdz7eight8fouronefive5
+ + 75 = 28138
+ckpqmllrqrcbgdcmzpxcpqxtx66
+ + 66 = 28204
+nzloneightoneninefivecrxtd5
+ + 15 = 28219
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4dpdvdqdqq6mtnl
+ + 4 = 28223
+nine9eightbkdpnkpmfour
+ + 94 = 28317
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+tvtlcqjqdp1vzgr82pgsbffjpbeightjfzdzmzvm
+ + 1 = 28318
+gqoneightsevensix94five
+ + 15 = 28333
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2fivesevenoneeightqmpcslzr
+ + 2 = 28335
+8xvsbxpfkfdthreeqsksgbhh4onefivejhjfpbs6
+ + 86 = 28421
+5three87
+ + 57 = 28478
+29eightsevenfour9
+ + 29 = 28507
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7cfivefiverqzbhdftrggvnhnf
+ + 7 = 28514
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+xjtwonefivevtjvkz61nrsnmfr
+ + 2 = 28516
+1hnrjdgtvz6two7
+ + 17 = 28533
+kfdqhfml55
+ + 55 = 28588
+vbphsbsfz8twonine6
+ + 86 = 28674
+eight9two
+ + 82 = 28756
+eightkvrbdl3one
+ + 81 = 28837
+2csixnine
+ + 29 = 28866
+tsqmlqrt9zonetwo
+ + 92 = 28958
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mqhhlf3eightonen
+ + 3 = 28961
+kj5nslbsn15
+ + 55 = 29016
+2966threeone
+ + 21 = 29037
+3six415vnine
+ + 39 = 29076
+9khvgnllhpq967nine99
+ + 99 = 29175
+qzrvbnckh3
+ + 33 = 29208
+458sevenonenine
+ + 49 = 29257
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8twofivexk5chqhvntdlp4zkbtr8twoneqh
+ + 8 = 29265
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fivezcprsxseven88sevencplfgznnmvhoneightstr
+ + 5 = 29270
+3ffztxgzqfivetjzqdkr1three
+ + 33 = 29303
+nine3zsjtr2seven
+ + 97 = 29400
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+grlh3bbrlsevenqqhnzclxvlrgrtthcxjqpdbxkbsrr
+ + 3 = 29403
+4four2eightdkgxp728
+ + 48 = 29451
+9rsjhxllvthtlcsevensix
+ + 96 = 29547
+qhnmhzzfxfmftghvbv6eighthljb2
+ + 62 = 29609
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+nbmczbmcdlmg6seventkbvzkcdspcmtslcp
+ + 6 = 29615
+bninefivecone83
+ + 93 = 29708
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2dfhkq
+ + 2 = 29710
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3bfsbpvxkjdhhpjskfd
+ + 3 = 29713
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9xskpfbm
+ + 9 = 29722
+two3vgr8eight
+ + 28 = 29750
+pfprtzxpxks3fourmkjkrcgcrstwo9seven
+ + 37 = 29787
+dtgmvxskmfdfzxmfour3two3
+ + 43 = 29830
+fourrlksqss3
+ + 43 = 29873
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+hbxbsixrkbrcnz5bbnmqfzgsbs
+ + 6 = 29879
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sdhtrdsdtjdsqvzsix1jnclhjsd
+ + 6 = 29885
+fourtwo4
+ + 44 = 29929
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+xrsjrgffb2gksvsxfldjzlgkg
+ + 2 = 29931
+6gzgrzgplqfkfjkrvtwo5
+ + 65 = 29996
+five8fjzttsdsreightxxshcbxfour2
+ + 52 = 30048
+pcvx2mmnhsgkqtcppb9twoq6
+ + 26 = 30074
+qtwone1bssfvxsdd28qhone
+ + 21 = 30095
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+fiveninethfrpzlxkj8fdvsixtwosgd
+ + 5 = 30100
+sixthmsjkp9twohvndmpv93
+ + 63 = 30163
+1sixfour
+ + 14 = 30177
+bznkdpmrprrdfxb6fpnpr4
+ + 64 = 30241
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+lshcpgffvxccd1fourninednm
+ + 1 = 30242
+onesix8xnhpcfkrgnbbxzmq6
+ + 16 = 30258
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+25sixfour1lbbdqmsxzfnkgvtftgsgdrg
+ + 2 = 30260
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2mdqzqqc
+ + 2 = 30262
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+hjjsjp7cgtqdfxhqvkzzdc
+ + 7 = 30269
+2snrf71one
+ + 21 = 30290
+threesevenfour516
+ + 36 = 30326
+jmfltlkhv7rktq4two
+ + 72 = 30398
+5eighteightr3
+ + 53 = 30451
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vkdscldtfourhmzzthree12ninexg
+ + 4 = 30455
+nineninetwo9nine3
+ + 93 = 30548
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+8nineeightwof
+ + 8 = 30556
+fivefivesixbr7xfkhrqzhdeight
+ + 58 = 30614
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four75csrpchl
+ + 4 = 30618
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+76smqztbhqsixfourthree1zvn
+ + 7 = 30625
+66nzdsevendpnzcqlcone
+ + 61 = 30686
+6cnfrldrkonefive
+ + 65 = 30751
+517837
+ + 57 = 30808
+nineeight36
+ + 96 = 30904
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four7ssnxm
+ + 4 = 30908
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+lrcgxfgd2nxzsrqncdm
+ + 2 = 30910
+37
+ + 37 = 30947
+sixnineskxb3fourthree6nine8
+ + 68 = 31015
+9foursix
+ + 96 = 31111
+jpnmjvl26threejjbdmptsix
+ + 26 = 31137
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4933eightqvjsrsfzeightkfvc
+ + 4 = 31141
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2sixtskzrsptnnonexrkv6eight5zvcsnbkp
+ + 2 = 31143
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sqmfbdzj3q
+ + 3 = 31146
+nine37mrksjgjlltwo
+ + 92 = 31238
+cfgcfone6
+ + 16 = 31254
+six92one
+ + 61 = 31315
+4one6
+ + 46 = 31361
+fivefivefourphdnrvvpcvrqnsxpthreeh76
+ + 56 = 31417
+dsjhfdjkninedpkxdktf6onejddfour8
+ + 98 = 31515
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vkckpclbthree14jmf8dxf
+ + 3 = 31518
+4njxbptmg6four5qdmkjfpfourfive9
+ + 49 = 31567
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+35pfnrthreegkh
+ + 3 = 31570
+two1onekdkfmz885
+ + 25 = 31595
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+txrjqbqbn27rmgxmkqbv
+ + 2 = 31597
+8fourkoneeight9three
+ + 83 = 31680
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mhdgskhtlzb6threefoursevenpft
+ + 6 = 31686
+9slcxvjz8seveneightnine
+ + 99 = 31785
+cqsnvpc7
+ + 77 = 31862
+three72
+ + 32 = 31894
+djsxgdfxkjvbxnnlbseven85twoseven
+ + 77 = 31971
+fmzrnvsone8ninejk6
+ + 16 = 31987
+97one
+ + 91 = 32078
+2sevennine
+ + 29 = 32107
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+65znshqqpkqjktr
+ + 6 = 32113
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixfourfivefour9xfvrdzfgjnjhzjkzcbpfpqkzfg
+ + 6 = 32119
+four4pzqtvgxhqxdhxfnkeight4
+ + 44 = 32163
+4xgjrseven
+ + 47 = 32210
+ninetwolcjfmsixone67
+ + 97 = 32307
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9jptgxvhk19bnfcnmpgdxxxrvmrfnsg
+ + 9 = 32316
+8fourlvvtgdjvzxxxtwonine9one
+ + 81 = 32397
+oneeightb17foureighttwo
+ + 12 = 32409
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eightjfcl2one4two6eightjsfmn
+ + 8 = 32417
+7seven5
+ + 75 = 32492
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+pktvqjkkjdhlrx7zn
+ + 7 = 32499
+onellmtcqmnjfourvnvgmshonesixthree8
+ + 18 = 32517
+3xhvcrnlsixeight
+ + 38 = 32555
+4vfcqdfxjplnksthreenineplvhvqhxfive2
+ + 42 = 32597
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+six8fourcbxdvnvfjzhjdzmt
+ + 6 = 32603
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+cgrktgfour8vfoursevenjtcknp
+ + 4 = 32607
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vdnxzc53g
+ + 5 = 32612
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+hfmjzlpvbkxpnf1bkeightwolsx
+ + 1 = 32613
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+xgglvqfhp1ccxmhzeightfive9hl
+ + 1 = 32614
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+7xcgmcjfivelgj
+ + 7 = 32621
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixmmmfrkqvdhkg7gxfourtwonekh
+ + 6 = 32627
+cfivekng6
+ + 56 = 32683
+1six1mpqmlmkbngdvrtwothree
+ + 13 = 32696
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6hglld
+ + 6 = 32702
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5sevengjbdhffvb
+ + 5 = 32707
+rlfmsrgndnhqnhlbp11
+ + 11 = 32718
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mxsbhvkvbklzvdfour7fkkrnxb
+ + 4 = 32722
+24nine
+ + 29 = 32751
+zgxjtcflbzmxpkvthree1nttnnvdtg9
+ + 39 = 32790
+nsmxzcnmvnineglkxcsq596qzmj7one
+ + 91 = 32881
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+twothreexgbvc7vhjzcfgrleightzgqsfq
+ + 2 = 32883
+dnjfbpjd9
+ + 99 = 32982
+three2qblhgxkltwo
+ + 32 = 33014
+tjbhkqvvcnbjd91
+ + 91 = 33105
+qhrmsix8
+ + 68 = 33173
+jggjzfgmnd3
+ + 33 = 33206
+1onethreenine
+ + 19 = 33225
+twojxgpxtfv1threeeightfiveddszdds8three
+ + 23 = 33248
+hldvlq4321szlg3
+ + 43 = 33291
+fivefour2
+ + 52 = 33343
+twovfsrf7seven4two
+ + 22 = 33365
+fvjlchqlfivetwo1
+ + 51 = 33416
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five1lkgh
+ + 5 = 33421
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1pgtgsevensevenbjqbpsxzqf
+ + 1 = 33422
+lgkpn8hbggmcvql13nine1lrdzone
+ + 81 = 33503
+fourjltwoseven6drrxqssxk1
+ + 41 = 33544
+8threepgqzlbvkfiveonehkzqlpbssix
+ + 86 = 33630
+qptsc9
+ + 99 = 33729
+ctrznpqeightzrsqfour63
+ + 83 = 33812
+cqhhjlbpbxthpnfnzsevenqgjhxssvdstffive9seven
+ + 77 = 33889
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5twoonezgvgsslkgpqlff6xmdznqx
+ + 5 = 33894
+xhmpflgfpplpnxzgleightvdchndpqkphqqltkg7two
+ + 82 = 33976
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+sixtwofkh85clksveightwob
+ + 6 = 33982
+58pccnnlzfpprdcbhtnrhgbjfour2
+ + 52 = 34034
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1sixnpr
+ + 1 = 34035
+lbxxjkhn5one7
+ + 57 = 34092
+threeonepzltnzdninefive45two
+ + 32 = 34124
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2dcf
+ + 2 = 34126
+oneonezrpqdxtmmhbvlt3sixone2
+ + 12 = 34138
+248
+ + 28 = 34166
+3dhbfxlf4three
+ + 33 = 34199
+sevensix4
+ + 74 = 34273
+7glsgonegl8
+ + 78 = 34351
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+seven3tfxbpmmr
+ + 7 = 34358
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+onemgqtzzfgrgdffive6fourpvz1tdxtrtx
+ + 1 = 34359
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five6pvdsfiveone2threeddglqxqzqdxrnjkneightwox
+ + 5 = 34364
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2cljsix1twoqvqbzg
+ + 2 = 34366
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6nhjfk
+ + 6 = 34372
+mchqvjtrtlfour2
+ + 42 = 34414
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+85two32xsgjpznmdz
+ + 8 = 34422
+xspzlcjzvvc5mq3kthf2
+ + 52 = 34474
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threefourrjshnlzm9nineeightdzllhjhl8gdtqmb
+ + 3 = 34477
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9cqhrtwo1five12m
+ + 9 = 34486
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+pb89hzbnxgbrrd
+ + 8 = 34494
+jreight1five
+ + 85 = 34579
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+four18pmcrdbkcdcjcsix2fhssbzjjjvzhnjjk
+ + 4 = 34583
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+rn4sjbjtn
+ + 4 = 34587
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+vbt3kmkskgn5l
+ + 3 = 34590
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threexsrfcqdlll9bfjk
+ + 3 = 34593
+zfourninekjztvzphtc9eight6
+ + 46 = 34639
+75three1six67
+ + 77 = 34716
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eight73seven41fsxmkdqd
+ + 8 = 34724
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+threeeightlccnztnrfx2mtqvfcqtjx9lfnkmldpm
+ + 3 = 34727
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+14seven92sevensixxzrmhtchqk
+ + 1 = 34728
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+1nhjllhkglzseven6kfqfszkfgb6lhfljnspj
+ + 1 = 34729
+onetwofive182
+ + 12 = 34741
+vnzjcptm83one9
+ + 89 = 34830
+bqdhljbknreightthreeeight2
+ + 82 = 34912
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3txkkxsrxbzsixj
+ + 3 = 34915
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+2cjthreemhtd4jvzpgbkngsxbnrtgj
+ + 2 = 34917
+one2pjpjsfpdznnxgkhdqnine1fivetwo
+ + 12 = 34929
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+qhcdv73vn
+ + 7 = 34936
+66fourrz79seven
+ + 67 = 35003
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+five7threepxrfbrqz
+ + 5 = 35008
+prlsxjkhm6kkhrpdltqznineseven7
+ + 67 = 35075
+89fouroneq15
+ + 85 = 35160
+4twofmsjsbqls25
+ + 45 = 35205
+4smqsdrpdqqcdlxjfvrnsevenseventwo
+ + 42 = 35247
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+pnqqpctwollkbbpmfmnzlmzsz2z
+ + 2 = 35249
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eightxcjlsbtzzbrbkmseveneight47fivelrp
+ + 8 = 35257
+hmqlmzhvfl1lv6fourfiverfspsnvtwo
+ + 12 = 35269
+7sevencvsxqmkthree
+ + 73 = 35342
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+273ninefour6eighthnhdzm
+ + 2 = 35344
+four3vdcsfnineseven5
+ + 45 = 35389
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mvpctnvzcnpdqbxbd2knlrzvfpgqdsdjztlgvf
+ + 2 = 35391
+sixfive7
+ + 67 = 35458
+3ninenpxqtj49four
+ + 34 = 35492
+1lplgcsz5seven
+ + 17 = 35509
+lvvmmvn37
+ + 37 = 35546
+2sevenqbppzsldfourseven
+ + 27 = 35573
+bmrs1rbfsfdhconeonesix
+ + 16 = 35589
+3sixrrxrbbzsixsixfrhghcvkrfnggmhqx95
+ + 35 = 35624
+4one4nine
+ + 49 = 35673
+2fourkrpsmnkcslnszhdvjfour
+ + 24 = 35697
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+mqnmstznbnbrgzrvgdtzbxbnfrvcm2lbpprxqc
+ + 2 = 35699
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+dzlbvpj5hxmtzfzb3fdhxvtb8rhtlnhpjvtf
+ + 5 = 35704
+qcptwone1fiveqxfrtmbpdtdtfceightstfivenine
+ + 29 = 35733
+42seventwo
+ + 42 = 35775
+four84mlspvcfnineeight84
+ + 44 = 35819
+1bsix5rbdqnc2fiveseven
+ + 17 = 35836
+mzbgh9vhksjone
+ + 91 = 35927
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+4eightfivefivetwo1oneightvhr
+ + 4 = 35931
+one7bpqltzf9ninesix
+ + 16 = 35947
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+9sevenrc
+ + 9 = 35956
+threethree3four64
+ + 34 = 35990
+krpzm9vgzzcgjsxhnkckqv98lmjthbdqsixsix
+ + 96 = 36086
+seven4six9gxrqzbmnone9
+ + 79 = 36165
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+xjzfxlzzb5rdstbqnjt
+ + 5 = 36170
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+bfpmf5seven6eightxdxsctrcd
+ + 5 = 36175
+fivekhcfqgffntsmxxxseven655
+ + 55 = 36230
+2dbcfmvsevenxfkxfjfkfive
+ + 25 = 36255
+twofrgktmh9nskvhxchnine
+ + 29 = 36284
+43slhfrqsfp9
+ + 49 = 36333
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+6fiveeight79995vkkncvsqhk
+ + 6 = 36339
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+eight6chnqqvbng9threedlsvdnqkpnxszkshtqppgdjn
+ + 8 = 36347
+onepkgxfvgngt8six
+ + 16 = 36363
+88gdtttxsjkpvpqbeighthpxlsdsbl6one
+ + 81 = 36444
+eight6xkm8
+ + 88 = 36532
+threepsmmfbdqx4
+ + 34 = 36566
+seven5639
+ + 79 = 36645
+six3qlgbddfn6eightnine
+ + 69 = 36714
+2lrlzvdpklf4five8two4
+ + 24 = 36738
+sixvhbz7
+ + 67 = 36805
+ksfhbrfnhdqbfkgcblthreefour55
+ + 35 = 36840
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+one6958mmhvjj
+ + 1 = 36841
+oneqmfmnjg7fmrnine
+ + 19 = 36860
+6ninefourgvztqcztk4sevensix1
+ + 61 = 36921
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+5gsjgpcrvq
+ + 5 = 36926
+ktss45
+ + 45 = 36971
+kbtjtdcljbjcghxcbjlv3foureight
+ + 38 = 37009
+fivefive6vcgxjjthreenine
+ + 59 = 37068
+qns2fgklcgzzbczjdnvgcxsix
+ + 26 = 37094
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+74gfpsfjfour81zjxqfbb
+ + 7 = 37101
+scvqlthree1
+ + 31 = 37132
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+398ggxg
+ + 3 = 37135
+mpvoneightsixbdhbmhklveightthree182
+ + 12 = 37147
+7bvjnine2fivethreefour
+ + 74 = 37221
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+52pfivenineqpshjdbb
+ + 5 = 37226
+59threexjjbczsix5
+ + 55 = 37281
+oneeight69dkhvvplxjfourseven
+ + 17 = 37298
+oneeight9threevctrd4
+ + 14 = 37312
+5threesix7
+ + 57 = 37369
+8five7kltvbjtbsvnkhlzrtntwo
+ + 82 = 37451
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+33four8cd
+ + 3 = 37454
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+48three5fiveseven2hmb
+ + 4 = 37458
+one5seven
+ + 17 = 37475
+7onetwovxmtvrjxb1
+ + 71 = 37546
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+45five7fivegpzhcfbbfiveqhnhhzdqtnltgnkrxz
+ + 4 = 37550
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+kfjzhdtgkjtqthree7pvmxs
+ + 3 = 37553
+7two5one8
+ + 78 = 37631
+
+Warning: Undefined array key 1 in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+
+Warning: Undefined array key "" in /Users/scociancich/Development/Personal/aoc2023/day01b.php on line 33
+3eighteightllkbxkbs9zgznxtj8lfflcst
+ + 3 = 37634
